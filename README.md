@@ -1,2 +1,2 @@
-# ng-ivy-sample
-angular ivy sample
+# NgSample
+
