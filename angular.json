@@ -105,5 +105,8 @@
       }
     }
   },
-  "defaultProject": "ng-sample"
+  "defaultProject": "ng-sample",
+  "cli": {
+    "analytics": false
+  }
 }
